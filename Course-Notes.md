@@ -5,7 +5,10 @@
 
 ### Text book Notes
 
-**Essential Python Libraries**
+“Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.” - python.org
+For data analysis and interactive computing and data visualization, Python will inevitably draw comparisons with other open source and commercial programming languages and tools in wide use, such as R, MATLAB, SAS, Stata, and others.
+
+**Python Libraries**
 
 • NumPy
 
