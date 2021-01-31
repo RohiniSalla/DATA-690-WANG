@@ -2,5 +2,5 @@
 DATA 690-02 Statistics and visualization by Prof. Chaojie Wang
 
 **Author:** Rohini Salla
-# Brief Description
+## Brief Description
 This repository includes my course notes, assignments for DATA 690.
