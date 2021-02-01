@@ -24,5 +24,33 @@ For data analysis and interactive computing and data visualization, Python will 
 
 • Statsmodels
 
+### Chapter 2
+
+• Hello World
+
+• Number Generator
+
+• Scalar types
+
+• Bytes and Unicode
+
+• Magic Command
+
+• Tab Feature
+
+• Comparisons
+
+• Strings
+
+• None codes
+
+• Dates and Time
+
+• Booleans
+
+• control flow
+
+• %run command
+
 
 
