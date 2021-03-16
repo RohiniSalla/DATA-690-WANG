@@ -1,35 +1,37 @@
-imported required libraries
+# ALGORITHM
 
-reading html using pandas
+1) imported required libraries
 
-found number of tables in the html page
+2) reading html using pandas
 
-displayed the tables
+3) found number of tables in the html page
 
-found shape of html table
+4) displayed the tables
 
-Assigning the header to the dataframe
+5) found shape of html table
 
-checking for null values
+6) Assigning the header to the dataframe
 
-defined a function 'cleanse_year' to cleanse year column in the dataframe
+7) checking for null values
 
-applied the function cleanse_year to the 'Census Year' column
+8) defined a function 'cleanse_year' to cleanse year column in the dataframe
 
-defined a function 'cleanse_cost' to cleanse year column in the dataframe
+9) applied the function cleanse_year to the 'Census Year' column
 
-applied the function cleanse_cost to the 'Census Cost' column
+10) defined a function 'cleanse_cost' to cleanse year column in the dataframe
 
-defined a function 'cleanse_Population' to cleanse year column in the dataframe
+11) applied the function cleanse_cost to the 'Census Cost' column
 
-applied the function cleanse_Population to the 'Total Population' column
+12) defined a function 'cleanse_Population' to cleanse year column in the dataframe
 
-defined a function 'cleanse_averagecost' to cleanse year column in the dataframe
+13) applied the function cleanse_Population to the 'Total Population' column
 
-applied the function cleanse_averagecost to the 'Average Cost Per Person' column
+14) defined a function 'cleanse_averagecost' to cleanse year column in the dataframe
 
-saving the dataframe as csv file census_cost_cleansed.csv
+15) applied the function cleanse_averagecost to the 'Average Cost Per Person' column
 
-reading the csv file as dataframe
+16) saving the dataframe as csv file census_cost_cleansed.csv
 
-checking for any null values in the dataframe.
+17) reading the csv file as dataframe
+
+18) checking for any null values in the dataframe.
